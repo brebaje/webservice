@@ -11,7 +11,7 @@ The project is to implement a web service in PHP that provides json search resul
 
 Please provide some sample working url calls to your application to be run on localhost.
 
-1. Find businesses in an area.
+#### Find businesses in an area.
 
 Given a query such as “burritos in Berlin” or “ramen in Tokyo” returns a list of establishment names and results. For example,
 
@@ -26,7 +26,7 @@ Given a query such as “burritos in Berlin” or “ramen in Tokyo” returns a
 }
 ```
 
-2. Address autocompletion.
+#### Address autocompletion.
 
 Return possible address predictions for input. Example inputs include, ‘Schlesische Strasse 27C’, ‘Paris’, ‘Gandalf’.
 
