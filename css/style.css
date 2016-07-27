@@ -1,0 +1,14 @@
+@import url('bootstrap.min.css');
+
+body {
+	margin-top: 60px;
+}
+
+h1 {
+	text-align: center;
+}
+
+span.glyphicon-info-sign,
+a.list-group-item {
+	color: #5BC0DE;
+}
